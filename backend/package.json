@@ -4,8 +4,8 @@
   "description": "",
   "type": "commonjs",
   "scripts": {
-    "dev": "nodemon dist/server",
-    "build":"npm i"
+    "dev": "node dist/server",
+    "build":"npm install"
   },
   "keywords": [],
   "author": "",
